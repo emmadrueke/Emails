@@ -4,47 +4,55 @@
 
     </mj-style>
   </mj-head>
-  <mj-body>
+  <mj-body background-color=#fdf0ec>
     <mj-section>
       <mj-column>
-
+        <mj-text></mj-text>
       </mj-column>
     </mj-section>
-
+      <mj-text></mj-text>
     <mj-section>
       <mj-column>
-
+        <mj-image src="./resources/the_wings.png" />
+        <mj-image src="./resources/header_text.png" />
       </mj-column>
     </mj-section>
-
+      <mj-image src="./resources/plants.png" />
     <mj-section>
       <mj-column>
-
+        <mj-image src="./resources/filler.png" />
+        <mj-text>
+          Thanks for joining our gym-jambori! So excited for
+          more shenanigans. Love ya'll and can't wait to <mj-social-element>
+          everyone next month!
+          Click <a>here</a> to download and share your photos
+          </mj-social-element>
+        </mj-text>
       </mj-column>
     </mj-section>
-
+      <mj-text>
+        LEARN MORE ABOUT THE WINGS HERE!
+      </mj-text>
     <mj-section>
       <mj-column>
-
+        <mj-image src="./resources/the_w.png" />
       </mj-column>
     </mj-section>
-
     <mj-section>
-      <mj-column>
-
-      </mj-column>
-    </mj-section>
-
-    <mj-section>
-      <mj-column>
-
-      </mj-column>
-    </mj-section>
-
-    <mj-section>
-      <mj-column>
-
-      </mj-column>
+      <mj-group>
+        <mj-column>
+          <mj-image src="./resources/instagram.png" />
+        </mj-cloumn>
+        <mj-column>
+          <mj-image src="./resources/email.png" />
+        </mj-cloumn>
+        <mj-column>
+          <mj-image src="./resources/facebook.png" />
+        </mj-cloumn>
+        <mj-column>
+          <mj-image src="./resources/twitter.png" />
+        </mj-cloumn>
+      </mj-group>
     </mj-section>
   </mj-body>
 </mjml>
