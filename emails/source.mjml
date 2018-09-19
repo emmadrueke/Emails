@@ -4,7 +4,7 @@
 
     </mj-style>
   </mj-head>
-  <mj-body background-color=#fdf0ec>
+  <mj-body background-color=#fdf3ec>
     <mj-section>
       <mj-column>
         <mj-text></mj-text>
@@ -20,7 +20,7 @@
       <mj-image src="./resources/plants.png" />
     <mj-section>
       <mj-column>
-        <mj-image src="./resources/filler.png" />
+        <mj-image src="./resources/headshot.png" />
         <mj-text>
           Thanks for joining our gym-jambori! So excited for
           more shenanigans. Love ya'll and can't wait to <mj-social-element>
